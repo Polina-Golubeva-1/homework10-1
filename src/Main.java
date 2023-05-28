@@ -12,5 +12,6 @@ public class Main {
 
         java.lang.System.out.println(system);
         java.lang.System.out.println(newSystem);
+        java.lang.System.out.println(newSystem.equals(system));
     }
 }
